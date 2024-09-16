@@ -19,6 +19,8 @@ I'm a **Software Development Engineer** based in Kyoto, Japan, with a passion fo
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Scripting & Automation
+![Batch Script](https://img.shields.io/badge/Batch%20Script-3F3F3F?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
