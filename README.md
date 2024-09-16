@@ -44,14 +44,13 @@ I'm a **Software Development Engineer** based in Kyoto, Japan, with a passion fo
 ## 🎓 Education
 - **Bachelor of Engineering in Electronics & Communication**
 - **Associate Degree in Computer Science** 
-- **Vocational School:** Japanese Language School  
 
 ---
 
 ## 📫 Let's Connect
 - **Email:** [rahulln0596@gmail.com](mailto:rahulln0596@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rahul)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rahul-ln0596/)
 
 ---
 
-I'm always looking to collaborate on exciting projects! Feel free to explore my repositories and reach out for potential opportunities.
+**I'm always looking to collaborate on exciting projects! Feel free to explore my repositories and reach out for potential opportunities.**
