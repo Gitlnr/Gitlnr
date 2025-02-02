@@ -1,6 +1,6 @@
 # Hi, I'm Rahul 👋
 
-I'm a **Software Development Engineer** based in Kyoto, Japan, with a passion for building high-performance systems and tackling complex technical challenges. I specialize in system design, implementation, and testing software applications, leveraging my expertise in object-oriented programming, data structures, and algorithms. My experience spans across managing projects from inception to completion, ensuring robust and scalable solutions. I thrive on contributing to impactful projects and continuously improving my technical skills while driving innovative solutions in the ever-evolving tech landscape.
+I'm a **Software Development Engineer** based in Japan, with a passion for building high-performance systems and tackling complex technical challenges. I specialize in system design, implementation, and testing software applications, leveraging my expertise in object-oriented programming, data structures, and algorithms. My experience spans across managing projects from inception to completion, ensuring robust and scalable solutions. I thrive on contributing to impactful projects and continuously improving my technical skills while driving innovative solutions in the ever-evolving tech landscape.
 
 
 ---
